@@ -1,4 +1,4 @@
-# 👋 Hello there! I’m Ademir Junior
+<img src="https://github.com/AdemirCoimbraJNR/AdemirCoimbraJNR/blob/main/ChatGPT%20Image%2031%20de%20jul.%20de%202025%2C%2014_44_40.png" />
 
 🎓 I’m a Systems Analysis and Development student at **Senac PR**  
 💡 Passionate about technology, software development, and continuous learning  
@@ -19,4 +19,4 @@
 
 ---
 
-🛠️ *Always improving — one commit at a time.*
+🛠️ *Small commits to achieve big projects.*
