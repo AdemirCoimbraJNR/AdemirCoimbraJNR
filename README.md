@@ -10,10 +10,12 @@
 - 🌐 HTML, CSS & JavaScript
 
 ## 📈 GitHub Stats
-![Ademir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademircoimbra&show_icons=true&theme=github_dark)
+![Ademir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirCoimbraJNR&show_icons=true&theme=github_dark)
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/ademircoimbra/)
+- 📍 Curitiba, PR – Brazil
+- 📧 ademircolin@hotmail.com
+- [💼 LinkedIn](https://www.linkedin.com/in/ademircoimbra/)
 
 ---
 
